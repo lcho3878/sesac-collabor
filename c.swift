@@ -1,3 +1,3 @@
 func c() {
-    print("commmmmmm")
+    print("나는 게이다")
 }
