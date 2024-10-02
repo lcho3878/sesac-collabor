@@ -1,3 +1,3 @@
 func c() {
-    print("CCcCCC")
+    print("commmmmmm")
 }
